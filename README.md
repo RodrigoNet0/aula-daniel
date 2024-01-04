@@ -1,2 +1,2 @@
 # aula-daniel
-Aula de JavaScript 
+Aula de JavaScript S2
